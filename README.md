@@ -1,5 +1,9 @@
 # Thesis Repository
+### Author: Muhammad Irfan Mas'udi
+### Supervisor: Prof. Luciano Baresi, Co-Supervisor: Davide Hu
+### Master in Computer Science and Engineering @POLIMI
 ## “DILLEMA: Metamorphic Testing for Deep Learning using Diffusion and Large Language Models”
+
 A framework to generate new test cases to uncover the faulty behavior of Image-based Deep Learning application (e.g. Autonomous driving).
 In the result, DILLEMA detects 24.8 % pixel-based misclassification of Semantic Segmentation task on Autonomous driving SHIFT dataset. Moreover, it also founds 53.3 % misclassification images in state-of-the-art neural networks for Classification task with ImageNet1K dataset.
 
