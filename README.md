@@ -21,14 +21,12 @@ In the result, DILLEMA detects 24.8 % pixel-based misclassification of Semantic 
 
 ## Result: Comparison between original and DILLEMA Augmented 
 1. SHIFT Dataset on Semantic Segmentation task
-<br />
 <img width="1043" alt="Screenshot 2023-12-13 at 20 10 12 copy" src="https://github.com/irfanmasoudi/thesis-source/assets/6355974/6a56afe5-1e39-4ce8-93c5-9e3550dbf0dc">
 
-<br />
+<br /><br />
 <img width="1438" alt="image" src="https://github.com/irfanmasoudi/thesis-source/assets/6355974/95f0248b-499e-428e-b7a8-36e9cfbfc1d1"> <br /><br />
 
 3. ImageNet1K Dataset for Classification task
-<br />
 <img width="978" alt="Screenshot 2023-12-13 at 17 58 08 copy" src="https://github.com/irfanmasoudi/thesis-source/assets/6355974/025be22f-98be-463b-b083-95d502e5aabe">
 <br />
 Because the confusion matrix is vast, here we attach several spreadsheet results:
