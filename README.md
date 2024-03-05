@@ -12,7 +12,7 @@ In the result, DILLEMA detects 24.8 % pixel-based misclassification of Semantic 
 
 ## Folder Structure
 1. ```SHIFT``` contains notebooks and executable Python for training the model ```DeepLabV3_ResNet50``` and testing processes (DILLEMA augmentation) for Semantic Segmentation task with SHIFT dataset (synthetic dataset for autonomous driving). The model builds on PyTorch Lightning. It contains data exploration and data visualization for the result (e.g. confusion matrix).
-<img width="1440" alt="SHIFT Dataset" src="https://github.com/irfanmasoudi/thesis-source/assets/6355974/bcd036bf-f9bd-4ce5-a305-810b7b4aeeb7">
+<figure><img width="1440" alt="SHIFT Dataset" src="https://github.com/irfanmasoudi/thesis-source/assets/6355974/bcd036bf-f9bd-4ce5-a305-810b7b4aeeb7"><figcaption>SHIFT Dataset</figcaption></figure>
 
 
 3. ```Imagenet``` contains notebooks and executable for training and testing processes for the state-of-the-art (ResNet18, ResNet50, ResNet152) of pre-trained model for ```ImageNet1K``` which is built on top of PyTorch. This folder also contains data-exploration (Pandas), data-visualization (matplotlib, seaborn).
