@@ -19,7 +19,20 @@ In the result, DILLEMA detects 24.8 % pixel-based misclassification of Semantic 
 <img width="1440" alt="image" src="https://github.com/irfanmasoudi/thesis-source/assets/6355974/53290b65-0e14-4d39-9caf-35e58aa45d1a">
 <br /><br />
 
-## Result
-1. Semantic Segmentation on SHIFT Dataset
+## Result: Comparison between original and DILLEMA Augmented 
+1. SHIFT Dataset on Semantic Segmentation task
+<br />
+![image](https://github.com/irfanmasoudi/thesis-source/assets/6355974/7100e116-f3f4-4d8f-b60f-b61c3a7bcb67)<br />
+<img width="1438" alt="image" src="https://github.com/irfanmasoudi/thesis-source/assets/6355974/95f0248b-499e-428e-b7a8-36e9cfbfc1d1"> <br /><br />
+
+3. ImageNet1K Dataset for Classification task
+<br />
+![image](https://github.com/irfanmasoudi/thesis-source/assets/6355974/bc650fff-dce1-47d1-a9d7-a170d3d22ad1)
+<br />
+Because the confusion matrix is vast, here we attach several spreadsheet results:
+[ResNet18-Original](https://docs.google.com/spreadsheets/d/1YZ-g10NW4lC5UMA4rVZrvNnC5LDT7zdA2HM-qZFAous/edit?usp=sharing) [ResNet18-DILLEMA](https://docs.google.com/spreadsheets/d/12RDB1xP20rOzTWpPN5XLp96DRPsqJdh2qxU-Dn5EXAs/edit?usp=sharing)
+[ResNet50-Original](https://docs.google.com/spreadsheets/d/1go6huKzcYEAwSpHpMyqMCBHURA0ON29H/edit?usp=sharing&ouid=107614737529128863932&rtpof=true&sd=true) [ResNet50-DILLEMA](https://docs.google.com/spreadsheets/d/1GEhledp1DPOKBU1eZjNV-g7rwaKiTiPn/edit?usp=sharing&ouid=107614737529128863932&rtpof=true&sd=true)
+[ResNet152-Original](https://docs.google.com/spreadsheets/d/1sO8gISG1VgVcK3AQh09VKIbm3tmNAPo_/edit?usp=sharing&ouid=107614737529128863932&rtpof=true&sd=true) [ResNet152-DILLEMA](https://docs.google.com/spreadsheets/d/14VRt01-Cb0QqK6RWIt7tcXi9YFr90zNv/edit?usp=sharing&ouid=107614737529128863932&rtpof=true&sd=true)
+
 
 
